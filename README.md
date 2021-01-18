@@ -11,7 +11,7 @@ This Manual contains the notes I have taken from various resources on Basic Java
 2.The Complete JavaScript Course 2021: From Zero to Expert! by *Jonas Schedtman*
   https://www.udemy.com/course/the-complete-javascript-course/
  
-3.JavaScript - The Complete Guide 2021 (Beginner + Advanced) by *Maximillian Schwarzmuller
+3.JavaScript - The Complete Guide 2021 (Beginner + Advanced) by *Maximillian Schwarzmuller*
   https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/
   
 4.The Modern JavaScript Bootcamp by *Andrew Mead*
@@ -30,8 +30,12 @@ This Manual contains the notes I have taken from various resources on Basic Java
    
 ## Other free online resources 
 
-1.W3Schools.
+1.W3Schools
+
 2.freecodecamp.org
+
 3.Mozilla Developer Commmunity
-4.Udacity.
+
+4.Udacity
+
 5.Coursera
